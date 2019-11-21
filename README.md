@@ -9,7 +9,7 @@ A php framework
 
 ## 类自动加载
 ```
-spl_autoload_register('\core\kfw::load');
+spl_autoload_register('\core\jefskyphp::load');
 ```
 没有引入的类调用load方法  
 
